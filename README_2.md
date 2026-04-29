@@ -1,10 +1,6 @@
 # 😴 Sleep & Gender Analysis
 
-> Exploring the relationship between gender and sleep quality using a dataset of 15,000 individuals.
-
-**Authors:** Ashley Cruz · Hanh Le · Simon Yoshizaki · Koa Choeynim
-
----
+> Exploring the relationship between gender and sleep quality using a dataset of 15,000 individuals. My part involved numerical analysis
 
 ## 📖 Overview
 
